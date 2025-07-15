@@ -21,4 +21,4 @@ This is a simple Python project that analyzes weather data from a CSV file and g
 ## Usage
 
 1. Place your weather data in `dane_pogoda.txt` file
-2. Run the script:
+2. Run the script
